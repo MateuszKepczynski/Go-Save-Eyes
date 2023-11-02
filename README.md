@@ -1,6 +1,6 @@
 # Go Save Eyes
 
-![Goperh Image](assetsmages/gopher.png)
+![Goperh Image](assets/images/gopher.png)
 
 *Gopher image by [MariaLetta](https://github.com/MariaLetta), licensed under
 [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).*
