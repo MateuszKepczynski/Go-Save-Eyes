@@ -12,7 +12,6 @@ If you are not technical person just click this link:
 https://github.com/MateuszKepczynski/Go-Save-Eyes/releases/download/v0.1.2/go-save-eyes.exe
 )
 and run .exe file.
-If you are more aware
 
 ## About Go Save Eyes
 
