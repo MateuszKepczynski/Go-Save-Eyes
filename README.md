@@ -8,7 +8,9 @@
 ## Download and Install
 
 If you are not technical person just click this link:
-[Download Go Save Eyes](https://github.com/)
+[Download Go Save Eyes](
+https://github.com/MateuszKepczynski/Go-Save-Eyes/releases/download/v0.1.2/go-save-eyes.exe
+)
 and run .exe file.
 If you are more aware
 
