@@ -9,7 +9,7 @@
 
 If you are not technical person just click this link:
 [Download Go Save Eyes](
-https://github.com/MateuszKepczynski/Go-Save-Eyes/releases/download/v0.1.0/go-save-eyes.exe
+https://github.com/MateuszKepczynski/Go-Save-Eyes/releases/download/v0.1.1/go-save-eyes.exe
 )
 and run .exe file.
 
