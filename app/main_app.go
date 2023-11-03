@@ -34,7 +34,7 @@ func NewMainApp() MainApp {
 }
 
 func (m *MainApp) BreakInitializer(timeLeftLabel *widget.Label, progress *widget.ProgressBar) {
-	for i := 1.0; i < OneHour.Seconds(); i++ {
+	for i := 1.0; i <= OneHour.Seconds(); i++ {
 		select {
 		case <-m.pause:
 			<-m.resume
